@@ -1,0 +1,4 @@
+name = "ComputationalGeometry"
+uuid = "a2ac13c4-9c94-43cc-ad14-b3ce49d5b36f"
+authors = ["Sam Cohen <samuel.cohen@ufl.edu>"]
+version = "0.1.0"
